@@ -1,2 +1,2 @@
-# MongoDB-FruitProject
-Fruit project using MongoDB
+# MongoDB-FruitsProject
+Fruits project using MongoDB
